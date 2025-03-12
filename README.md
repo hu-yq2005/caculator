@@ -1,4 +1,3 @@
 # caculator
-$$
-![Alt Text](./Screenshot.png)
-$$
+
+![Calculator Screenshot](./Screenshot.png)
